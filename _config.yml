@@ -116,7 +116,7 @@ content:
       - **The Joy of Computing Using Python** - NPTEL
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
